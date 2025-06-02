@@ -1,4 +1,4 @@
-# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+# Implementation of SISO register using Verilog HDL
 
 **AIM:**
 
