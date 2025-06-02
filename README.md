@@ -1,3 +1,7 @@
+# Name : VIGNESH S
+
+# REG NO : 212224110061
+
 # Implementation of SISO register using Verilog HDL
 
 **AIM:**
